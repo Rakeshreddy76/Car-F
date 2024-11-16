@@ -1,4 +1,3 @@
-// frontend/src/components/Auth/Login.js
 
 import { AuthContext } from '../context/AuthContext';
 import React, { useState, useContext } from 'react';
